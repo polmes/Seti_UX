@@ -512,6 +512,17 @@
 			</dict>
 		</dict>
 		<dict>
+			<key>name</key>
+			<string>String Content</string>
+			<key>scope</key>
+			<string>string.quoted</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#009FFF</string>
+			</dict>
+		</dict>
+		<dict>
 			<key>scope</key>
 			<string>string.regexp</string>
 			<key>settings</key>
