@@ -511,6 +511,7 @@
 				<string>#009FFF</string>
 			</dict>
 		</dict>
+		<!-- MODS -->
 		<dict>
 			<key>name</key>
 			<string>String Content</string>
@@ -522,6 +523,7 @@
 				<string>#009FFF</string>
 			</dict>
 		</dict>
+		<!-- .MODS -->
 		<dict>
 			<key>scope</key>
 			<string>string.regexp</string>
